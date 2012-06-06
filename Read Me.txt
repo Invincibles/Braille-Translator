@@ -1,0 +1,14 @@
+Developed in 2009.
+
+This application is used to convert braille(language of blind) to text. This is done as a part of our mini-project during 3rd year 2nd semester (2009). I along with Laxmi Narayana and Vijaya Saradi worked on it.
+
+How to use this application?
+
+1. Before you run the application for the first time,
+Place the braille.ttf in "C:\Program Files\Java\jre7\lib\fonts" or a similar path specific to your system.
+
+2. Run application by using the start.bat.
+
+3. In order to see what you type, change the mode to text to braille. Goto Action -> text to braille or use shift + T. 
+
+If you have any queries please contact me at ananth1220@gmail.com.
